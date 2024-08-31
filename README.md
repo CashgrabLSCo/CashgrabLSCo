@@ -1,5 +1,5 @@
 - 👋 Hi, We’re @CashgrabLSCo
-- 👀 We’re interested in asset flips.
+- 👀 We’re interested in using Game Templates to extend to more interesting games.
 - 🌱 We’re currently programming with unity.
 
 <!---
